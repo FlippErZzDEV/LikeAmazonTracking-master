@@ -1,0 +1,11 @@
+name: LikeAmazonTracking
+version: '${project.version}'
+main: net.thellay.likeamazontracking.LikeAmazonTracking
+api-version: 1.18
+authors: [ Hero_JonasHD ]
+description: "Player tracking plugin"
+commands:
+  lat:
+    aliases:
+    - track
+    description: "Tuffle need this, to track his trainees"
